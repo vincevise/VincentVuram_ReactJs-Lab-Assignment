@@ -19,6 +19,8 @@ data.
 spent, who pays to whom and how has to be paid by them at any given time.
 6. View the Add new Item Form separately with the react router dom.
 See the Image below for your reference
+
+
 ![image](https://user-images.githubusercontent.com/88813613/178227353-3dadb7ba-4d80-43df-a2d5-402389f7d879.png)
 
 ![image](https://user-images.githubusercontent.com/88813613/178227381-740652ed-6d63-4586-864e-2738b717ea81.png)
